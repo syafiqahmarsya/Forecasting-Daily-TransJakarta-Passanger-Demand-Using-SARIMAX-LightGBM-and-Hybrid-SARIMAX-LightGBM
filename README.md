@@ -1,5 +1,5 @@
 # Daily TransJakarta Passenger Forecasting
-
+Thesis link: https://drive.google.com/file/d/1tWLt303MQy-zsKmJ7PHQvEVjIlXRk95A/view?usp=sharing
 ## Project Overview
 This project compares three time-series forecasting approaches to predict daily Bus Rapid Transit (BRT) passenger counts for TransJakarta: SARIMAX, LightGBM, and a hybrid SARIMAX–LightGBM model.
 
